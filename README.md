@@ -1,1 +1,1 @@
-# weather-forecasting
+# WeatherWise
